@@ -1,10 +1,11 @@
 .movieText {
    color: purple;
-   font-size: 3rem;
+   font-size: 1.5rem;
    text-align: left;
 }
 
 .movieHeading {
-   color: black;
+   color: maroon;
+   font-size: 3rem;
    text-align: left;
 }

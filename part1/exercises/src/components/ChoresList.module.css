@@ -1,11 +1,15 @@
 .choresText {
    color: darkmagenta;
-   font-family: 'Courier New', Courier, monospace;
-   font-size: 2rem;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 1.5rem;
    font-style: italic;
+   text-align: left;
+   color: lightgreen;
 }
 
 .choresHeading {
-   color: black;
+   color: darkgreen;
    text-decoration: underline;
+   text-align: left;
+   font-size: 3rem;
 }
