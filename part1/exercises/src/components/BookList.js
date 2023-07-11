@@ -11,9 +11,9 @@ export default function BookList() {
    return (
       <div>
          <h3 className={pageTitle}>Books To Read</h3>
-         <img src={book1} alt="The Younger Wife" width={"300px"} /> <br />
-         <img src={book2} alt="The Eyes of the Dragon"  width={"300px"} /> <br />
-         <img src={book3} alt="Book of Night"  width={"300px"} />
+         <img src={book1} alt="The Younger Wife" width={"150px"} /> <br />
+         <img src={book2} alt="The Eyes of the Dragon"  width={"150px"} /> <br />
+         <img src={book3} alt="Book of Night"  width={"150px"} />
       </div>
    );
 
