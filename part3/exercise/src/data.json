@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "bird": "Roseate Spoonbill",
+            "place": "Audubon's Silver Bluff Bird Sanctuary, South Carolina",
+            "date": "August 1, 2021",
+            "memory": "Saw three juvenile spoonbills and lots of wood storks."
+        },
+        {
+            "bird": "Painted Bunting",
+            "place": "Phinizy Sawmp, Georgia",
+            "date": "May 16, 2021",
+            "memory": "Saw my first painted bunting while out hiking with my kids."
+        },
+        {
+            "bird": "Steller's Jay",
+            "place": "Manitou Incline, Colorado",
+            "date": "September 17, 2020",
+            "memory": "Was visited by a Steller's Jay while feeding chipmunks after getting to the top of The Incline."
+        },
+        {
+            "bird": "Western Tanager",
+            "place": "Cheyenne Mountain State Park, Colorado",
+            "date": "July 25, 2020",
+            "memory": "A western tanager flew right up to me while I was hiking to the top of Cheyenne Mountain."
+        },
+        {
+            "bird": "Loggerhead Shrike",
+            "place": "My Backyard, Georgia",
+            "date": "June 5, 2022",
+            "memory": "Looked out my back window and spotted my first Loggerhead Shrike while he ate a giant grasshopper on my fence."
+        }
+    ]
+}
